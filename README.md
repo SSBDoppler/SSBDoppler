@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SSBDoppler
 - 👀 I’m interested in Competitive Videogames
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a custom melee HUD.
 - 📫 How to reach me SSBDoppler#4547 on Discord.
 <!---
